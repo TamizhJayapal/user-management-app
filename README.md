@@ -1,13 +1,13 @@
 This is JavaEE Dynamic web project. The following technology used here.
 
-Java 11
-Jdbc 
-Mysql 8
-tomcat 10
-Servlet
-Jsp
-Html 5
-css 3
+Java 11,
+Jdbc ,
+Mysql 8,
+tomcat 10,
+Servlet,
+Jsp,
+Html 5,
+css 3,
 Bootstrap 4
 
 
